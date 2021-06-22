@@ -1,5 +1,6 @@
-## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Hello world, I'm João Pedro! <img src=" https://saraletourneau.files.wordpress.com/2019/03/hello-penguin.gif" width="200px" />
+## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Hello world, I'm João Pedro!
 
+<img src="https://saraletourneau.files.wordpress.com/2019/03/hello-penguin.gif" width="200px" />
 
 <div>
   <a href="https://github.com/jpedroreiss"/>
