@@ -6,6 +6,6 @@
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpedroreiss&&layout=compact&hide=shell&theme=tokyonight"/>
 </div>
 
-https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
 
 
