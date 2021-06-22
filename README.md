@@ -6,7 +6,7 @@
 
 </div>
  
- #### Thanks for visiting :heart:
+ ## Thanks for visiting :heart:
    ![Visitor Count](https://profile-counter.glitch.me/{jpedroreiss}/count.svg) 
   
 ## :snake: 
