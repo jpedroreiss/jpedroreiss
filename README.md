@@ -6,11 +6,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpedroreiss&&layout=compact&hide=shell&theme=tokyonight"/>
 </div>
   
-##Total Visitors 
+Total Visitors 
 ![Visitor Count](https://profile-counter.glitch.me/{jpedroreiss}/count.svg) 
 
   
-#:snake: 
+:snake: 
  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>  
 
 
