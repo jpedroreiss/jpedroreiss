@@ -1,4 +1,4 @@
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Hello, I'm João Pedro!
+## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Hello, I'm João Pedro!
 
 <div>
   <a href="https://github.com/jpedroreiss">
