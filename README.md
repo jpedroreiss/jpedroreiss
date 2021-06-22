@@ -9,7 +9,7 @@
  ## Thanks for visiting :heart:
    ![Visitor Count](https://profile-counter.glitch.me/{jpedroreiss}/count.svg) 
   
-## :snake: 
+##  :snake: 
  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>  
 
 
