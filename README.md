@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Hello world, I'm João Pedro! :wave:
+## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Hello world, I'm João Pedro! :earth_americas:
 
 <div>
   <a href="https://github.com/jpedroreiss"/>
