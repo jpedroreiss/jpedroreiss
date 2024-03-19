@@ -1,4 +1,4 @@
-👋 Hi! My name is João Pedro Reis
+👋 Hi! My name is João Pedro
 ================================
 
 * 🌍  I'm based in Lavras, MG
