@@ -1,6 +1,8 @@
 👋 Hi! My name is João Pedro
 ================================
 
+I am a student and freelancer
+
 * 🌍  I'm based in Lavras, MG
 * 🧠  I'm learning Java
 
