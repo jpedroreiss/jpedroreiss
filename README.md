@@ -5,7 +5,7 @@
 
 
 
-<p align="left">I am currently studying Information Systems at the Federal University of Lavras. At 19 years old, I have a strong interest in software and web development. I am passionate about creating efficient, user-friendly applications and continually improving my coding skills.</p>
+<p align="left">I am currently studying Information Systems at the Federal University of Lavras. At 20 years old, I have a strong interest in software and web development. I am passionate about creating efficient, user-friendly applications and continually improving my coding skills.</p>
 
 
 
